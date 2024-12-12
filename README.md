@@ -42,6 +42,17 @@ This repository contains C++ programs that demonstrate key concepts in data stru
 
 ---
 
+#### C. Removing an Element from a Singly Linked List
+- Implements a function to remove an element at a specified index in a singly linked list.
+- Efficiently adjusts pointers to maintain the linked list structure.
+- Ensures proper memory cleanup to prevent memory leaks.
+- Pointer manipulation.
+- Dynamic memory management in linked lists.
+- Algorithmic techniques for handling edge cases.
+
+---
+
+
 ## Key Concepts Demonstrated
 - Dynamic data structures: Deque, Stack, Linked List.
 - Matrix operations: Transposition and manipulation.
